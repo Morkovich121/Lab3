@@ -1,0 +1,14 @@
+D:\Программирование\Учеба\BPTD\Lab3\Lab3\bin\Debug\net8.0\Lab3.exe
+D:\Программирование\Учеба\BPTD\Lab3\Lab3\bin\Debug\net8.0\Lab3.deps.json
+D:\Программирование\Учеба\BPTD\Lab3\Lab3\bin\Debug\net8.0\Lab3.runtimeconfig.json
+D:\Программирование\Учеба\BPTD\Lab3\Lab3\bin\Debug\net8.0\Lab3.dll
+D:\Программирование\Учеба\BPTD\Lab3\Lab3\bin\Debug\net8.0\Lab3.pdb
+D:\Программирование\Учеба\BPTD\Lab3\Lab3\obj\Debug\net8.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\Учеба\BPTD\Lab3\Lab3\obj\Debug\net8.0\Lab3.AssemblyInfoInputs.cache
+D:\Программирование\Учеба\BPTD\Lab3\Lab3\obj\Debug\net8.0\Lab3.AssemblyInfo.cs
+D:\Программирование\Учеба\BPTD\Lab3\Lab3\obj\Debug\net8.0\Lab3.csproj.CoreCompileInputs.cache
+D:\Программирование\Учеба\BPTD\Lab3\Lab3\obj\Debug\net8.0\Lab3.dll
+D:\Программирование\Учеба\BPTD\Lab3\Lab3\obj\Debug\net8.0\refint\Lab3.dll
+D:\Программирование\Учеба\BPTD\Lab3\Lab3\obj\Debug\net8.0\Lab3.pdb
+D:\Программирование\Учеба\BPTD\Lab3\Lab3\obj\Debug\net8.0\Lab3.genruntimeconfig.cache
+D:\Программирование\Учеба\BPTD\Lab3\Lab3\obj\Debug\net8.0\ref\Lab3.dll
